@@ -4,12 +4,8 @@
 - O labirinto é uma matriz definida em um arquivo .txt, no seguinte formato:
 
 ex:
- 5 8
- 1 1 1 1 1 1 1 1
- 1 1 0 1 0 1 1 1
- 1 1 0 0 0 1 1 1
- X 0 0 1 0 0 0 0
- 1 1 1 1 1 1 1 1
+ ![image](https://github.com/euFilpeSilva/Labirinto/assets/79103757/536e4e8b-6e54-42b9-9d4f-5561bfb2b5ba)
+
  
  Matriz contendo 5 linhas e 8 colunas.
 
