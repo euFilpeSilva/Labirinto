@@ -3,7 +3,6 @@
 
 - O labirinto é uma matriz definida em um arquivo .txt, no seguinte formato:
 
-ex:
  ![image](https://github.com/euFilpeSilva/Labirinto/assets/79103757/536e4e8b-6e54-42b9-9d4f-5561bfb2b5ba)
 
  
